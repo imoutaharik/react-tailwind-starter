@@ -11,9 +11,6 @@ const DesignSystem = () => {
 				<BtnBase text='Secondary' stylingClass='secondary'/>
 				<BtnBase text='Disabled' disabled={true}/>
 			</Container>
-			<div>
-
-			</div>
 		</div>
 	)
 };
